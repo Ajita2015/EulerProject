@@ -24,10 +24,3 @@ for i in range (1,101):
     sumSquares += i**2
 difference = sum**2 - sumSquares
 print('The difference in sum is: ' + str(difference))
-
-
-# In[ ]:
-
-
-
-
