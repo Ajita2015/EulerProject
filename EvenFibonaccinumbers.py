@@ -22,10 +22,3 @@ while(y<=4000000):
     x,y=y,x+y
 
 print('The sum is: ' + str(sum))
-
-
-# In[ ]:
-
-
-
-
