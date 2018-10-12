@@ -24,4 +24,3 @@ for i in range(2, 2000000):
         sum += i
 
 print('The sum of all primes below 2 million is: ' + str(sum))
-
